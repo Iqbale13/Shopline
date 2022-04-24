@@ -83,4 +83,4 @@ Route::get('/Sale', [SaleController::class, 'satu']);
 Route::get('/Shop', [ShopController::class, 'satu']);
 
 Route::get('/Stock', [StockController::class, 'satu']);
-//SIAP KBS 2022
+//ERRORRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
